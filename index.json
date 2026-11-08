@@ -1,0 +1,11 @@
+{
+  "org": "UKPLab",
+  "repo": "emnlp2026-graph2counsel",
+  "versions": [
+    {
+      "commit": "698b8cba83e03ceccb2cf83d08704263dc61438d",
+      "tag": "",
+      "parsed_at": "2026-11-08T07:22:59.827860+00:00"
+    }
+  ]
+}
