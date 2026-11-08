@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/UKPLab/emnlp2026-graph2counsel/commit/698b8cba83e03ceccb2cf83d08704263dc61438d",
       "git:hexsha": "698b8cba83e03ceccb2cf83d08704263dc61438d",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
